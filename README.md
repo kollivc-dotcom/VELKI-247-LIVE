@@ -1,6 +1,6 @@
 # Velki Agent List - Official Repository
 
-![Velki Banner](https://velkie.net/wp-content/uploads/2024/07/Velkie-247-Live-Agent-List.png)
+![Velki Banner](https://velkie.net/wp-content/uploads/2024/09/cropped-site-main-logo-22.jpg)
 
 Welcome to the official GitHub repository for the **Velki Agent List**, a front-end application designed to provide a secure and reliable way for users to verify official agents. Our mission is to enhance user safety and provide a transparent experience for the live sports community in Bangladesh.
 
